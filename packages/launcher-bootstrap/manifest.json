@@ -1,0 +1,20 @@
+{
+   "files":{
+      "Minecraft.exe":{
+         "downloads":{
+            "lzma":{
+               "sha1":"1b28fb0c0355db972776d89c71fbbdb902e0958d",
+               "size":773898,
+               "url":"https://launcher.mojang.com/v1/objects/1b28fb0c0355db972776d89c71fbbdb902e0958d/Minecraft.exe"
+            },
+            "raw":{
+               "sha1":"f6133a029a73d80290b2a58be7856dc4263de7d6",
+               "size":2940824,
+               "url":"https://rakion99.github.io/customc/objects/exe/Minecraft.exe"
+            }
+         },
+         "executable":false,
+         "type":"file"
+      }
+   }
+}
