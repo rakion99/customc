@@ -7,10 +7,10 @@
       {
          "id":"20w49a",
          "type":"snapshot",
-         "url":"https://launchermeta.mojang.com/v1/packages/13ef29a79cc0512e124963fd964e44fd11efe369/20w49a.json",
+         "url":"https://rakion99.github.io/customc/packages/versions/20w49a.json",
          "time":"2020-12-02T16:50:56+00:00",
          "releaseTime":"2020-12-02T16:47:20+00:00",
-         "sha1":"13ef29a79cc0512e124963fd964e44fd11efe369",
+         "sha1":"b12b27e9c85d727a8af7df2b1f8416cf9abe0707",
          "complianceLevel":1
       },
       {
@@ -43,10 +43,10 @@
       {
          "id":"1.16.4",
          "type":"release",
-         "url":"https://launchermeta.mojang.com/v1/packages/52a7ab98c79f8e00a1fb9912709b0323f00d095d/1.16.4.json",
+         "url":"https://rakion99.github.io/customc/packages/versions/1.16.4.json",
          "time":"2020-12-02T15:50:50+00:00",
          "releaseTime":"2020-10-29T15:49:37+00:00",
-         "sha1":"52a7ab98c79f8e00a1fb9912709b0323f00d095d",
+         "sha1":"9ceaff59a38b57a428d27249b29e3eb361b43036",
          "complianceLevel":1
       },
       {
