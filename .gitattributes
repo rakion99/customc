@@ -1,2 +1,5 @@
 # rlly
 * text eol=crlf
+
+*.dll binary
+*.exe binary
