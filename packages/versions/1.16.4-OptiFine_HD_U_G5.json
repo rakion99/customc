@@ -1,0 +1,39 @@
+{
+  "id": "1.16.4-OptiFine_HD_U_G5",
+  "inheritsFrom": "1.16.4",
+  "time": "2020-12-04T16:08:39-06:00",
+  "releaseTime": "2020-12-04T16:08:39-06:00",
+  "type": "release",
+  "libraries": [
+    {
+      "downloads":{
+        "artifact":{
+          "path":"optifine/Optifine/1.16.4_HD_U_G5/Optifine-1.16.4_HD_U_G5.jar",
+          "sha1":"c56e3274fba6a2c0f5dd18d7dcc9d077915b66c1",
+          "size":5246844,
+          "url":"https://rakion99.github.io/customc/libraries/optifine/Optifine/1.16.4_HD_U_G5/Optifine-1.16.4_HD_U_G5.jar"
+        }
+      },
+      "name": "optifine:OptiFine:1.16.4_HD_U_G5"
+    },
+    {
+      "downloads":{
+        "artifact":{
+          "path":"optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar",
+          "sha1":"48d08d4b6d7b74b8c304c0a5bdb244a081c54175",
+          "size":15900,
+          "url":"https://rakion99.github.io/customc/libraries/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar"
+        }
+      },
+      "name": "optifine:launchwrapper-of:2.2"
+    }
+  ],
+  "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": "21",
+  "arguments": {
+    "game": [
+      "--tweakClass",
+      "optifine.OptiFineTweaker"
+    ]
+  }
+}

@@ -5,6 +5,15 @@
    },
    "versions":[
       {
+         "id":"1.16.4-OptiFine_HD_U_G5",
+         "type":"custom",
+         "url":"https://rakion99.github.io/customc/packages/versions/1.16.4-OptiFine_HD_U_G5.json",
+         "time":"2020-12-04T16:08:39-06:00",
+         "releaseTime":"2020-12-04T16:08:39-06:00",
+         "sha1":"48dd6426d671767d21f9ec6c58e33c36657264cb",
+         "complianceLevel":1
+      },
+      {
          "id":"20w49a",
          "type":"snapshot",
          "url":"https://rakion99.github.io/customc/packages/versions/20w49a.json",
