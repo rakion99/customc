@@ -1,9 +1,9 @@
 {
   "id": "1.16.4-OptiFine_HD_U_G5",
   "inheritsFrom": "1.16.4",
-  "time": "2020-12-04T16:08:39-06:00",
-  "releaseTime": "2020-12-04T16:08:39-06:00",
-  "type": "release",
+  "time": "2020-12-03T16:08:39-06:00",
+  "releaseTime": "2020-12-03T16:08:39-06:00",
+  "type": "custom",
   "libraries": [
     {
       "downloads":{
